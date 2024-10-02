@@ -133,7 +133,7 @@ updatePet();
             System.out.println("Sorry, We don't have anymore space.");
          }
       } else {
-         System.out.println("Invaild choice, please selcet 'cat' or 'dog'");
+         System.out.println("Invaild choice, please select 'cat' or 'dog'");
       }
       // CheckIn ();
    }
